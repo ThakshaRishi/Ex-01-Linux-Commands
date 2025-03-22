@@ -23,12 +23,16 @@ The ls command is used to display a list of content of a directory.
 
  Syntax: ls
 
+![image](https://github.com/user-attachments/assets/515d3f10-a956-46cd-9abb-cc078c9b5a34)
+
 
 ### 2)	pwd Command
 
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
+
+![image](https://github.com/user-attachments/assets/126560e9-81fb-4f48-b2d6-fc1c687d7923)
 
  
 ### 3)	mkdir Command
@@ -37,12 +41,16 @@ The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
 
+![image](https://github.com/user-attachments/assets/faff0a46-f085-47e6-9c3e-17a0804c192c)
+
 
 ### 4)	rmdir Command
 
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
+
+![image](https://github.com/user-attachments/assets/645b7709-ac2a-4f69-8290-1dab26cb1654)
 
 
 ### 5)	cd Command
@@ -51,6 +59,8 @@ The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
 
+![image](https://github.com/user-attachments/assets/11b9a3cd-93b0-4523-aaef-1b6ff79a7a72)
+
 
 ### 6)	cat Command
 
@@ -58,12 +68,16 @@ The cat command is a multi-purpose utility in the Linux system. It can be used t
 
 Syntax: cat [OPTION]... [FILE]..
 
+![image](https://github.com/user-attachments/assets/44647c5d-6f0b-47e3-ae58-68a255bbf50f)
+
  
 ### 7)	cp Command
 
 The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
+
+![image](https://github.com/user-attachments/assets/84a642ac-a208-42ec-b741-8401626414bb)
 
 
 
@@ -73,6 +87,8 @@ The gedit is a general-purpose text editor. It can be used to create and edit al
 
 Syntax: gedit file_name
 
+![image](https://github.com/user-attachments/assets/2165b336-4119-432e-aeb6-ea76f1725ff7)
+
 
 ### 9)	su Command
 
@@ -80,12 +96,16 @@ The su command provides administrative access to another user. In other words, i
 
 Syntax: su <user name>
 
+![image](https://github.com/user-attachments/assets/751f7f38-38f3-4046-8791-1604f6b27c0a)
+
 
 ### 10)	mv Command
 
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
+
+![image](https://github.com/user-attachments/assets/191aeba3-450c-49de-8248-e4e5265f28ca)
 
  
 ## 11)	rename Command
