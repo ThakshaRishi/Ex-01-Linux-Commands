@@ -260,6 +260,7 @@ Syntax: clear
 
 ![image](https://github.com/user-attachments/assets/bce65060-aeea-4469-89fa-8ea90cdb5d24)
 
+
 ![image](https://github.com/user-attachments/assets/fac6b965-9372-4742-b51a-6b8e34da9c4f)
 
 ### 28)	mail Command
