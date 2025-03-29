@@ -1,4 +1,4 @@
-# Ex-01-Linux-Commands
+# Linux-Commands
 
 
 ## Aim:
